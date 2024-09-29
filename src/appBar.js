@@ -12,8 +12,6 @@ import Button from "@mui/material/Button";
 import Tooltip from "@mui/material/Tooltip";
 import MenuItem from "@mui/material/MenuItem";
 import AdbIcon from "@mui/icons-material/Adb";
-import Lottie from "lottie-react";
-import animationData from "./Name.json";
 
 const pages = ["on-click Animations", "Hover animations", "Scroll animations"];
 const settings = ["Profile", "Account", "Dashboard", "Logout"];
