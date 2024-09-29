@@ -52,3 +52,8 @@ In the project directory, you can run the following commands:
 
 ### `npm run build` Fails to Minify
 - If your build fails to minify, follow the [troubleshooting guide](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) for solutions.
+
+
+https://lottiefiles.com/
+
+https://www.npmjs.com/package/react-lottie
